@@ -186,7 +186,7 @@ muted mustard-yellow Xiaohei for opportunity, reminder, warm-up, idea spark
 
 ```text
 Color character routing:
-Use {角色颜色} because {选择理由}. All Xiaohei variants share the same exact body silhouette, tiny white eyes, thin limbs, blank serious expression, no clothes, and the same physical-action logic. Only the matte body color changes.
+Use {角色颜色} because {选择理由}. All Xiaohei variants share the same exact black body, cat ears, tiny white eyes, thin limbs, blank serious expression, and the same physical-action logic. Only the matte work-shirt color changes.
 ```
 
 如果使用组合角色，还要写清每个角色的动作，不要只说“出现几个颜色的小黑”。
