@@ -1,10 +1,10 @@
 # 房语小黑：让内容穿上颜色，开始行动
 
+🌐 **Language / 语言：** [中文](README.md) · [English](README.en.md)
+
 `fangyu-xiaohei-character` 是一套面向中文内容创作的角色视觉 Skill。
 
 它把文章、观点、项目复盘、活动流程和个人经历，变成一组有角色、有动作、有情绪记忆点的视觉场景：
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/152884f1-16ff-41a0-9f16-cd3d0a22f206" />
-<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/c8326bd6-fe22-40e8-8761-61268ceae4b1" />
 
 > 黑色猫耳小猫，穿上不同颜色的工作服，进入真实物件现场，认真完成一件荒诞但准确的工作。
 
