@@ -2,7 +2,7 @@
 
 🌐 **Language 
 
-语言：** [中文](README.md) · [English](README.en.md)
+                     语言：** [中文](README.md) · [English](README.en.md)
 
 `fangyu-xiaohei-character` 是一套面向中文/英文内容创作的角色视觉 Skill。
 
