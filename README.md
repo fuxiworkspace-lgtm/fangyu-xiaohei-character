@@ -4,7 +4,7 @@
 
 语言：** [中文](README.md) · [English](README.en.md)
 
-`fangyu-xiaohei-character` 是一套面向中文内容创作的角色视觉 Skill。
+`fangyu-xiaohei-character` 是一套面向中文/英文内容创作的角色视觉 Skill。
 
 它把文章、观点、项目复盘、活动流程和个人经历，变成一组有角色、有动作、有情绪记忆点的视觉场景：
 
